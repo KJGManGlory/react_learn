@@ -7,7 +7,6 @@ import Diff from './Diff';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
     <Diff />
   </React.StrictMode>,
   document.getElementById('root')
